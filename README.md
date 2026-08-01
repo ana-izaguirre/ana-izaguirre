@@ -2,55 +2,56 @@
 
 ### Software Developer | MERN Stack | TypeScript | GraphQL | Python & AI Explorer
 
-Software Developer with **8+ years of experience** building scalable web applications and backend services.
+Full-stack developer with **8+ years of experience** building web applications and backend services using JavaScript, TypeScript, React, Node.js, and GraphQL.
 
-For the last **4+ years**, I have focused on **TypeScript, React, Node.js, GraphQL, and full-stack JavaScript**, working with multicultural and international teams.
+I enjoy solving complex problems, improving software quality, and exploring AI-assisted development.
 
-I enjoy solving complex problems, improving code quality, debugging production systems, and building reliable software solutions. Currently exploring **Python, AI-assisted development, and LLM-based applications**.
+🌎 Open to collaborating on software development and AI-related projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,graphql,angular,mongodb,postgresql,aws,docker,kubernetes,githubactions,python" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,graphql,angular,mongodb,postgresql,aws,docker,githubactions,python" />
 </p>
 
-**Also experienced with:**  
-Datadog · CI/CD · Queues & asynchronous processing · REST APIs · Cloud environments
+**Other experience:**  
+Datadog · Kubernetes · CI/CD · Queues · REST APIs · Cloud environments
 
 ---
 
-## 💼 Experience Highlights
+## 🚀 Featured Projects
 
-- 🚀 **Full-Stack Development:** MERN applications, TypeScript, Node.js, GraphQL APIs
-- 🗄️ **Databases:** MongoDB, PostgreSQL, data-driven applications
-- ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions
-- 📊 **Observability:** Production monitoring and troubleshooting with Datadog
-- 🔄 **Engineering Practices:** Code quality, debugging, scalable architectures
+### 🤖 AI Code Assistant
+Exploring AI-assisted development tools, code analysis, and LLM-based workflows.
 
----
-
-## 🌎 Industry Experience
-
-Worked on software solutions across different industries:
-
-- 🏥 **Allergan Data Labs** — Healthcare data & analytics
-- 💻 **Intel** — Technology & semiconductor industry
-- 🚗 **AutoFi** — Automotive technology & digital retail solutions
-- 🎓 **Sumadi** — EdTech and AI-powered assessment solutions
-
-These experiences have helped me adapt to different domains, business needs, and technical challenges.
+**Tech:** TypeScript · Node.js · Python · AI APIs
 
 ---
 
-## 🤖 Currently Exploring
+### 🌐 Full-Stack Applications
+Building scalable web applications with modern frontend and backend technologies.
 
-- Python 🐍
-- AI-assisted software development
-- LLM applications
-- Code evaluation & quality analysis
-- Developer productivity tools
+**Tech:** React · TypeScript · GraphQL · Node.js · MongoDB · PostgreSQL
+
+---
+
+### ☁️ Cloud & DevOps Experiments
+Projects focused on deployment, automation, and cloud practices.
+
+**Tech:** AWS · Docker · GitHub Actions
+
+---
+
+## 💼 Industry Experience
+
+Worked on software solutions for different industries:
+
+- 💻 Intel — Technology & semiconductor
+- 🏥 Allergan Data Labs — Healthcare data & analytics
+- 🎓 Sumadi — EdTech & AI-powered assessment
+- 🚗 AutoFi — Automotive technology
 
 ---
 
@@ -63,7 +64,5 @@ These experiences have helped me adapt to different domains, business needs, and
 
 ## 📫 Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/ana-izaguirre/)  
-🐙 [GitHub](https://github.com/ana-izaguirre)
-
-⭐ Thanks for visiting my profile!
+💼 LinkedIn: https://www.linkedin.com/in/ana-izaguirre/  
+🐙 GitHub: https://github.com/ana-izaguirre
