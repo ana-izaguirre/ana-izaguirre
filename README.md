@@ -1,68 +1,60 @@
 # Hi, I'm Ana 👋
 
-### Software Developer | MERN Stack | TypeScript | GraphQL | Python & AI Explorer
+### FullStack Engineer | Distributed Systems & Cloud | Node.js · TypeScript · AWS · React 
 
-Full-stack developer with **8+ years of experience** building web applications and backend services using JavaScript, TypeScript, React, Node.js, and GraphQL.
+Software engineer with **8+ years in production systems**, most recently at **Allergan Data Labs (AbbVie)** and **Intel**, plus 2 years leading and mentoring engineering teams.
 
-I enjoy solving complex problems, improving software quality, and exploring AI-assisted development.
+I work on the layer where reliability meets cost: event-driven services that don't drop messages, APIs that hold under load, and observability you can actually debug at 3am.
 
-🌎 Open to collaborating on software development and AI-related projects.
+📍 Spain (CET/CEST) · 🤝 Available for daily overlap with US teams · 🗣️ English & Spanish
+💼 Open to backend and fullstack roles — remote, EU or US
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,graphql,angular,mongodb,postgresql,aws,docker,githubactions,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,expressjs,graphql,python,postgresql,mongodb&perline=7" />
+<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,react,angular&perline=6" />
 </p>
 
-**Other experience:**  
-Datadog · Kubernetes · CI/CD · Queues · REST APIs · Cloud environments
+**Also working with:**
+Snowflake · Datadog · AWS SNS / SQS / Lambda · RabbitMQ · Terraform (basic) · CI/CD · Jest · Cypress
 
 ---
 
-## 🚀 Featured Projects
+## 🤝 How I work
 
-### 🤖 AI Code Assistant
-Exploring AI-assisted development tools, code analysis, and LLM-based workflows.
-
-**Tech:** TypeScript · Node.js · Python · AI APIs
-
----
-
-### 🌐 Full-Stack Applications
-Building scalable web applications with modern frontend and backend technologies.
-
-**Tech:** React · TypeScript · GraphQL · Node.js · MongoDB · PostgreSQL
-
----
-
-### ☁️ Cloud & DevOps Experiments
-Projects focused on deployment, automation, and cloud practices.
-
-**Tech:** AWS · Docker · GitHub Actions
-
----
-
-## 💼 Industry Experience
-
-Worked on software solutions for different industries:
-
-- 💻 Intel — Technology & semiconductor
-- 🏥 Allergan Data Labs — Healthcare data & analytics
-- 🎓 Sumadi — EdTech & AI-powered assessment
-- 🚗 AutoFi — Automotive technology
-
----
-
-## 🌎 Languages
-
-🇪🇸 Spanish — Native  
-🇺🇸 English — Professional working proficiency
+🤖 **AI-assisted development** — OpenCode and agentic coding tools in my daily workflow
+📟 **Production ownership** — on-call rotation, incident response, Datadog alerting
+👥 **Mentoring** — onboarding engineers into unfamiliar codebases
+🌐 **Distributed teams** — 6+ years with US-based engineering orgs
 
 ---
 
 ## 📫 Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/ana-izaguirre/  
-🐙 GitHub: https://github.com/ana-izaguirre
+💼 [LinkedIn](https://www.linkedin.com/in/ana-izaguirre/) — full experience and background
+
+✉️ ana.izaguirrematamoros@gmail.com
+
+
+<!--
+==================================================================
+🚀 FEATURED PROJECTS — NO PUBLICAR HASTA QUE HAYA UN REPO REAL
+==================================================================
+Descomentar SOLO cuando exista un repositorio público con demo.
+Un proyecto con enlace vale más que tres sin él.
+
+## 🚀 Featured Projects
+
+### 🤖 [NOMBRE] — Agent backend with production hygiene
+Tool-calling agent service built the way it would ship: queue-backed
+execution, retries with backoff, per-user token budgets, latency and
+cost tracing.
+
+**Tech:** TypeScript · Node.js · SQS · PostgreSQL · Docker
+**[Repo](URL) · [Live demo](URL)**
+==================================================================
+-->
