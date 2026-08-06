@@ -1,13 +1,13 @@
 # Hi, I'm Ana 👋
 
-### FullStack Engineer | Distributed Systems & Cloud | Node.js · TypeScript · AWS · React 
+### Full Stack Engineer | Backend-focused | Node.js · TypeScript · React · GraphQL · AWS
 
 Software engineer with **8+ years in production systems**, most recently at **Allergan Data Labs (AbbVie)** and **Intel**, plus 2 years leading and mentoring engineering teams.
 
 I work on the layer where reliability meets cost: event-driven services that don't drop messages, APIs that hold under load, and observability you can actually debug at 3am.
 
 📍 Spain (CET/CEST) · 🤝 Available for daily overlap with US teams · 🗣️ English & Spanish
-💼 Open to backend and fullstack roles — remote, EU or US
+💼 Open to backend and full-stack roles — remote, EU or US
 
 ---
 
@@ -20,7 +20,7 @@ I work on the layer where reliability meets cost: event-driven services that don
 </p>
 
 **Also working with:**
-Snowflake · Datadog · AWS SNS / SQS / Lambda · RabbitMQ · Terraform (basic) · CI/CD · Jest · Cypress
+Snowflake · Datadog · AWS SNS / SQS / Lambda · RabbitMQ · CI/CD (GitHub Actions) · Jest · Cypress
 
 ---
 
@@ -35,7 +35,7 @@ Snowflake · Datadog · AWS SNS / SQS / Lambda · RabbitMQ · Terraform (basic) 
 
 ## 📫 Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/ana-izaguirre/) — full experience and background
+💼 [LinkedIn](https://www.linkedin.com/in/ana-izaguirre/) — full experience and background 
 
 ✉️ ana.izaguirrematamoros@gmail.com
 
