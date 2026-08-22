@@ -6,8 +6,8 @@ Software engineer with **8+ years in production systems**, most recently at **Al
 
 I work on the layer where reliability meets cost: event-driven services that don't drop messages, APIs that hold under load, and observability you can actually debug at 3am.
 
-📍 Spain (CET/CEST) 
-💼 Open to backend and full-stack roles 
+📍 Zaragoza, Spain · 🗣️ English & Spanish
+💼 Open to backend and full-stack roles — on-site, hybrid or remote
 
 ---
 
