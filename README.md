@@ -6,17 +6,33 @@ Software engineer with **8+ years in production systems**, most recently at **Al
 
 I work on the layer where reliability meets cost: event-driven services that don't drop messages, APIs that hold under load, and observability you can actually debug at 3am.
 
-📍 Zaragoza, Spain · 🗣️ English & Spanish
-💼 Open to backend and full-stack roles — on-site, hybrid or remote
+📍 Zaragoza, Spain · 🗣️ English & Spanish  
+💼 Open to backend and full-stack roles — hybrid in Zaragoza or remote from Spain
+
+---
+
+## 🚀 Featured Projects
+
+### [trainer-flow](https://github.com/ana-izaguirre/trainer-flow)
+Telegram-based workout planning tool where the AI proposes and the trainer decides. State machine with no path to the client without approval, idempotent webhooks, and 100% coverage on the critical modules.  
+**TypeScript · Deno · Supabase (PostgreSQL) · Gemini · Telegram**
+
+### [mcp-docs-search](https://github.com/ana-izaguirre/mcp-docs-search)
+MCP server that gives AI agents keyword search over markdown docs. One runtime dependency, SQLite FTS5, and a published retrieval-evaluation harness run in CI.  
+**Python · SQLite · MCP · pytest · mypy**
+
+### [latino-migra](https://github.com/ana-izaguirre/latino-migra) · [Live](https://latino-migra.vercel.app)
+Web platform for Latin American students migrating: scholarship explorer, Gemini-powered assistant and community forums.  
+**React 19 · TypeScript · Express · Firestore · Vercel**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,ts,expressjs,graphql,python,postgresql,mongodb&perline=7" />
+<img alt="Node.js, TypeScript, Express, GraphQL, Python, PostgreSQL, MongoDB" src="https://skillicons.dev/icons?i=nodejs,ts,expressjs,graphql,python,postgresql,mongodb&perline=7" />
 <br>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,react,angular&perline=6" />
+<img alt="AWS, Docker, Kubernetes, GitHub Actions, React, Angular, Supabase, Deno" src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,react,angular,supabase,deno&perline=8" />
 </p>
 
 **Also working with:**
@@ -26,35 +42,14 @@ Snowflake · Datadog · AWS SNS / SQS / Lambda · RabbitMQ · CI/CD (GitHub Acti
 
 ## 🤝 How I work
 
-🤖 **AI-assisted development** — OpenCode and agentic coding tools in my daily workflow
-📟 **Production ownership** — on-call rotation, incident response, Datadog alerting
-👥 **Mentoring** — onboarding engineers into unfamiliar codebases
+🤖 **AI-assisted development** — OpenCode, Claude Code and agentic coding tools in my daily workflow  
+📟 **Production ownership** — on-call rotation, incident response, Datadog alerting  
+👥 **Mentoring** — onboarding engineers into unfamiliar codebases  
 🌐 **Distributed teams** — 6+ years with US-based engineering orgs
 
 ---
 
 ## 📫 Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/ana-izaguirre/) — full experience and background 
-
+💼 [LinkedIn](https://www.linkedin.com/in/ana-izaguirre/) — full experience and background  
 ✉️ ana.izaguirrematamoros@gmail.com
-
-
-<!--
-==================================================================
-🚀 FEATURED PROJECTS — NO PUBLICAR HASTA QUE HAYA UN REPO REAL
-==================================================================
-Descomentar SOLO cuando exista un repositorio público con demo.
-Un proyecto con enlace vale más que tres sin él.
-
-## 🚀 Featured Projects
-
-### 🤖 [NOMBRE] — Agent backend with production hygiene
-Tool-calling agent service built the way it would ship: queue-backed
-execution, retries with backoff, per-user token budgets, latency and
-cost tracing.
-
-**Tech:** TypeScript · Node.js · SQS · PostgreSQL · Docker
-**[Repo](URL) · [Live demo](URL)**
-==================================================================
--->
