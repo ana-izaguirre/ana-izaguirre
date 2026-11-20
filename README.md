@@ -11,9 +11,9 @@ I work on the layer where reliability meets cost: event-driven services that don
 
 ### 👉 [**My CV, as an interactive page**](https://ana-izaguirre.github.io/) 👈
 
-Searchable, in two languages, downloadable as a one-page PDF. Built as a single
-self-contained file with no runtime dependencies, gated in CI on Lighthouse 100
-across all four categories. [Source](https://github.com/ana-izaguirre/ana-izaguirre.github.io)
+Searchable, in two languages, downloadable as a one-page PDF. One static page with
+no framework and no runtime dependencies, gated in CI on Lighthouse 100 across all
+four categories and 100% test coverage. Each project opens into a case study. [Source](https://github.com/ana-izaguirre/ana-izaguirre.github.io)
 
 ---
 
@@ -32,7 +32,7 @@ MCP server that gives AI agents keyword search over markdown docs. **One runtime
 **Python · SQLite FTS5 · MCP · pytest · mypy**
 
 ### [latino-migra](https://github.com/ana-izaguirre/latino-migra) · [Live](https://latino-migra.vercel.app)
-Web platform for Latin American students migrating: scholarship explorer, Gemini-powered assistant and community forums. A server-side proxy keeps the model keys out of the browser; a scheduled workflow refreshes scholarship deadlines on its own.
+Web platform for Latin American students migrating: verified scholarships, visa guides with official sources, and a Gemini-powered assistant. A server-side proxy keeps the model keys out of the browser; a scheduled workflow refreshes scholarship deadlines on its own.
 
 **React 19 · TypeScript · Express · Firestore · Vercel · Playwright**
 
